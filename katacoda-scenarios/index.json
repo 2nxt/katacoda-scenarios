@@ -17,33 +17,30 @@
       },
       {
         "background": "step4/background.sh",
-        "text": "step4/step4.md"
+        "text": "step4/step.md"
       },
       {
         "background": "step5/background.sh",
-        "text": "step5/step5.md"
+        "text": "step5/step.md"
       },
       {
         "background": "step6/background.sh",
-        "text": "step6/step6.md"
+        "text": "step6/step.md"
       },
       {
-        "text": "step7/step7.md"
+        "text": "step7/step.md"
       },
       {
-        "text": "step8/step8.md"
+        "text": "step8/step.md"
       },
       {
-        "text": "step9/step9.md"
+        "text": "step9/step.md"
       },
       {
-        "text": "step10/step10.md"
+        "text": "step10/step.md"
       },
       {
-        "text": "step11/step11.md"
-      },
-      {
-        "text": "step12/step12.md"
+        "text": "step11/step.md"
       }
     ]
     },
