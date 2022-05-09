@@ -1,0 +1,57 @@
+{
+  "title": "kubernets pods creation",
+  "description": "This is scenario help you to understand pods management",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "text": "step1/step.md"
+      },
+      {
+        "text": "step2/step.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "text": "step3/step.md"
+      },
+      {
+        "background": "step4/background.sh",
+        "text": "step4/step4.md"
+      },
+      {
+        "background": "step5/background.sh",
+        "text": "step5/step5.md"
+      },
+      {
+        "background": "step6/background.sh",
+        "text": "step6/step6.md"
+      },
+      {
+        "text": "step7/step7.md"
+      },
+      {
+        "text": "step8/step8.md"
+      },
+      {
+        "text": "step9/step9.md"
+      },
+      {
+        "text": "step10/step10.md"
+      },
+      {
+        "text": "step11/step11.md"
+      },
+      {
+        "text": "step12/step12.md"
+      }
+    ]
+    },
+  "environment": {
+    "uilayout": "terminal",
+    "hideintro": true
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running:1.18"
+  }
+}
