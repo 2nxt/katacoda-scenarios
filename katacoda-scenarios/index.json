@@ -8,8 +8,8 @@
       {
         "text": "step1/step.md"
       },
-      {
-        "text": "step2/step.md",
+      { "title": "Verify",
+        "text": "step2.md",
         "verify": "step2/verify.sh"
       },
       {

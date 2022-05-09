@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
-kubectl get po my-pod
+[ -d /home/scrapbook/tutorial/.git ] && echo "done"
