@@ -1,10 +1,4 @@
-# Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/devopslab/count.svg)](https://www.katacoda.com/devopslab "Get your profile on Katacoda.com")
+Please reference the "Your First Scenario" tutorial for guidance on how to get started with the included template:
 
-Visit https://www.katacoda.com/devopslab to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+https://www.katacoda.community/
